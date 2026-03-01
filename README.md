@@ -85,7 +85,7 @@ I started in IT before AI was part of the conversation — GoDaddy, hosting, SSL
 **AI & LLMs:** Claude (Code, API), Perplexity, Ollama (local models), LangChain, prompt engineering, AI-assisted development
 **Languages:** Python, Bash, JavaScript, PowerShell, SQL, HTML/CSS
 **Security:** CompTIA Security+, HIPAA auditing, IAM/MFA, vulnerability assessment, NIST/CMMC
-**Cloud & Infra:** AWS (Lightsail, CloudFront, S3, Route 53), Azure (Entra ID, RBAC, Key Vault), Docker, Active Directory, SSL/TLS
+**Cloud & Infrastructure:** AWS (Lightsail, CloudFront, S3, Route 53), Azure (Entra ID, RBAC, Key Vault), Docker, Active Directory, SSL/TLS
 **Tools:** Git, n8n, Airtable, WordPress, cPanel
 
 ---
