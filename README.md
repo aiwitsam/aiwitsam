@@ -37,7 +37,7 @@ I build tools that should exist but don't.
 </td>
 <td width="50%" valign="top">
 
-### [hipaa-scanner](https://github.com/aiwitsam/hipaa-scanner)
+### hipaa-scanner
 **HIPAA Compliance Scanner for Healthcare Websites**
 `Python` `asyncio` `Risk Scoring` `CLI`
 
@@ -51,7 +51,7 @@ I build tools that should exist but don't.
 <tr>
 <td width="50%" valign="top">
 
-### [llm-chat-exporter](https://github.com/aiwitsam/llm-chat-exporter)
+### llm-chat-exporter
 **Chrome Extension — Export AI Chats from 30+ Platforms**
 `JavaScript` `Chrome MV3` `DOM Parsing`
 
@@ -63,7 +63,7 @@ I build tools that should exist but don't.
 </td>
 <td width="50%" valign="top">
 
-### [ai-surfer-toolkit](https://github.com/aiwitsam/ai-surfer-toolkit)
+### ai-surfer-toolkit
 **5-in-1 AI Content Automation CLI**
 `Node.js` `Commander` `Playwright`
 
@@ -76,7 +76,7 @@ I build tools that should exist but don't.
 </tr>
 </table>
 
-**Also building:** [wordPRESSED](https://github.com/aiwitsam) (WordPress security scanner — aggregates 6 free intel sources to replace $75-299/mo commercial tools, coming soon) · [job-search-playbook](https://github.com/aiwitsam/job-search-playbook)
+**Also building:** wordPRESSED (WordPress security scanner — aggregates 6 free intel sources to replace $75-299/mo commercial tools, coming soon) · [job-search-playbook](https://github.com/aiwitsam/job-search-playbook)
 
 ---
 
