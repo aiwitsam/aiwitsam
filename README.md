@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Security%2B+Certified+%7C+Azure+%7C+10%2B+Years+in+Enterprise+IT;Microsoft+%E2%86%92+GoDaddy+%E2%86%92+Norton+%E2%86%92+Building+My+Own+Tools;I+build+things+that+should+exist+but+don't)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI-Powered+Security+Engineer+%7C+10%2B+Years+Enterprise+IT;Early+AI+adopter+%E2%86%92+Now+building+full-time+with+Claude+%26+open+LLMs;I+build+things+that+should+exist+but+don't)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmargolis)
 [![Website](https://img.shields.io/badge/World_Class_Digital-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://worldclassdigital.com)
@@ -13,7 +13,9 @@
 
 ## :wave: About Me
 
-Cybersecurity and cloud infrastructure engineer based in Mesa, AZ with 10+ years spanning Microsoft, GoDaddy, Norton/LifeLock, and American Express. I build security and automation tools — the kind that should exist but don't — and release them for free. Currently founder of [World Class Digital](https://worldclassdigital.com) (IT consulting) and assistant PM for a federally funded workforce development program, managing data systems and employer partnerships for 443 fellows.
+I started in IT before AI was part of the conversation — GoDaddy, hosting, SSL, and security from the ground up. At Microsoft, I was hands-on with ChatGPT while it was still in beta and GitHub Copilot before general release. That early exposure changed how I think about building. Now I'm full-in on Claude, Perplexity, and open LLM models running locally via Ollama — using AI daily to build security and automation tools that should exist but don't.
+
+10+ years spanning Microsoft, GoDaddy, Norton/LifeLock, and American Express. Currently founder of [World Class Digital](https://worldclassdigital.com) (IT consulting) and assistant PM for a federally funded workforce development program, managing data systems and employer partnerships for 443 fellows.
 
 ---
 
@@ -80,10 +82,11 @@ Cybersecurity and cloud infrastructure engineer based in Mesa, AZ with 10+ years
 
 ## :hammer_and_wrench: Tech Stack
 
+**AI & LLMs:** Claude (Code, API), Perplexity, Ollama (local models), LangChain, prompt engineering, AI-assisted development
 **Languages:** Python, Bash, JavaScript, PowerShell, SQL, HTML/CSS
 **Security:** CompTIA Security+, HIPAA auditing, IAM/MFA, vulnerability assessment, NIST/CMMC
 **Cloud & Infra:** AWS (Lightsail, CloudFront, S3, Route 53), Azure (Entra ID, RBAC, Key Vault), Docker, Active Directory, SSL/TLS
-**Tools:** Git, Claude Code, Ollama, LangChain, n8n, Airtable, WordPress, cPanel
+**Tools:** Git, n8n, Airtable, WordPress, cPanel
 
 ---
 
