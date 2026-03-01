@@ -13,7 +13,7 @@
 
 ## About Me
 
-Cybersecurity and cloud infrastructure engineer based in Mesa, AZ with 10+ years spanning Microsoft, GoDaddy, Norton/LifeLock, and American Express. I build security and automation tools — the kind that should exist but don't — and release them for free. Currently founder of [World Class Digital](https://worldclassdigital.com) (IT consulting) and Assistant PM for the [C.O.R.E. Program](https://specialneedsnetwork.org) at Special Needs Network of LA, managing a $746K federally funded workforce development initiative for 443 fellows.
+Cybersecurity and cloud infrastructure engineer based in Mesa, AZ with 10+ years spanning Microsoft, GoDaddy, Norton/LifeLock, and American Express. I build security and automation tools — the kind that should exist but don't — and release them for free. Currently founder of [World Class Digital](https://worldclassdigital.com) (IT consulting) and assistant PM for a federally funded workforce development program, managing data systems and employer partnerships for 443 fellows.
 
 I build tools that should exist but don't.
 
@@ -103,7 +103,7 @@ I build tools that should exist but don't.
 ## Currently Working On
 
 - **wordPRESSED** — WordPress security scanner that aggregates NVD, CISA KEV, GitHub Advisories, Wordfence, Patchstack, and Exploit-DB into a local vulnerability database. No API keys, no paywalls. Bash + SQLite.
-- **C.O.R.E. Program** — Rebuilt the data tracking system (previous contractor delivered 36% of requirements), expanded employer partnerships from 94 to 246 prospects.
+- **Workforce development PM** — Rebuilt the data tracking system (previous contractor delivered 36% of requirements), expanded employer partnerships from 94 to 246 prospects.
 - **World Class Digital** — Cloud infrastructure, cybersecurity consulting, and project management for SMB and nonprofit clients.
 - **Local LLM experiments** — Running quantized models on an RTX 4060 via Ollama. Building tools that work offline.
 
