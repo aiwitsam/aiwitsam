@@ -11,15 +11,13 @@
 
 ---
 
-## About Me
+## :wave: About Me
 
 Cybersecurity and cloud infrastructure engineer based in Mesa, AZ with 10+ years spanning Microsoft, GoDaddy, Norton/LifeLock, and American Express. I build security and automation tools — the kind that should exist but don't — and release them for free. Currently founder of [World Class Digital](https://worldclassdigital.com) (IT consulting) and assistant PM for a federally funded workforce development program, managing data systems and employer partnerships for 443 fellows.
 
-I build tools that should exist but don't.
-
 ---
 
-## Featured Projects
+## :rocket: Featured Projects
 
 <table>
 <tr>
@@ -76,11 +74,11 @@ I build tools that should exist but don't.
 </tr>
 </table>
 
-**Also building:** wordPRESSED (WordPress security scanner — aggregates 6 free intel sources to replace $75-299/mo commercial tools, coming soon) · [job-search-playbook](https://github.com/aiwitsam/job-search-playbook)
+> **Also building:** wordPRESSED (WordPress security scanner — aggregates 6 free intel sources to replace $75-299/mo commercial tools, coming soon) · [job-search-playbook](https://github.com/aiwitsam/job-search-playbook)
 
 ---
 
-## Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 **Languages:** Python, Bash, JavaScript, PowerShell, SQL, HTML/CSS
 **Security:** CompTIA Security+, HIPAA auditing, IAM/MFA, vulnerability assessment, NIST/CMMC
@@ -89,7 +87,7 @@ I build tools that should exist but don't.
 
 ---
 
-## Credentials
+## :mortar_board: Credentials
 
 | Credential | Detail |
 |---|---|
@@ -100,7 +98,7 @@ I build tools that should exist but don't.
 
 ---
 
-## Currently Working On
+## :seedling: Currently Working On
 
 - **wordPRESSED** — WordPress security scanner that aggregates NVD, CISA KEV, GitHub Advisories, Wordfence, Patchstack, and Exploit-DB into a local vulnerability database. No API keys, no paywalls. Bash + SQLite.
 - **Workforce development PM** — Rebuilt the data tracking system (previous contractor delivered 36% of requirements), expanded employer partnerships from 94 to 246 prospects.
@@ -109,7 +107,7 @@ I build tools that should exist but don't.
 
 ---
 
-## Beyond the Terminal
+## :coffee: Beyond the Terminal
 
 I run a food blog at [chefboyrSam.com](https://chefboyrSam.com) — Vietnamese, Chinese, fermentation projects, and whatever sounds good that week. Active in my community at Temple Beth Shalom and formerly organized the "She-brew Hebrew Club" homebrew group. First-generation college graduate. The same thing that drives my open-source work drives everything else: making knowledge accessible to people who don't have a head start.
 
@@ -118,5 +116,7 @@ I run a food blog at [chefboyrSam.com](https://chefboyrSam.com) — Vietnamese, 
 <div align="center">
 
 *If any of these tools help you, a star goes a long way for a new account.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=aiwitsam&color=1f6feb&style=flat-square&label=Profile+Views)
 
 </div>
