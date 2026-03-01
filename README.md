@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=AI+%26+Security+First+%7C+10%2B+Years+Enterprise+IT;Early+AI+adopter+%E2%86%92+Claude%2C+Perplexity+%26+open+LLMs;I+build+things+that+should+exist+but+don't)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=AI+%26+Security+First+%7C+Infra+%7C+App+Dev;Claude%2C+Perplexity%2C+open+LLMs+%E2%80%94+before+it+was+cool;If+it+doesn't+exist+yet%2C+I'm+probably+building+it)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmargolis)
 [![Website](https://img.shields.io/badge/World_Class_Digital-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://worldclassdigital.com)
