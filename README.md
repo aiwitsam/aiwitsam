@@ -109,7 +109,7 @@ Cybersecurity and cloud infrastructure engineer based in Mesa, AZ with 10+ years
 
 ## :coffee: Beyond the Terminal
 
-I run a food blog at [chefboyrSam.com](https://chefboyrSam.com) — Vietnamese, Chinese, fermentation projects, and whatever sounds good that week. Active in my community at Temple Beth Shalom and formerly organized the "She-brew Hebrew Club" homebrew group. First-generation college graduate. The same thing that drives my open-source work drives everything else: making knowledge accessible to people who don't have a head start.
+I run a food blog at [chefboyrSam.com](https://chefboyrSam.com) — Vietnamese, Chinese, fermentation projects, and whatever sounds good that week. I cook for the Young Jewish Adults group at Temple Beth Shalom. The same thing that drives my open-source work drives everything else: making knowledge accessible to people who don't have a head start.
 
 ---
 
