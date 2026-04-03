@@ -1,0 +1,6 @@
+# Security enforcement (added by security-gate)
+.env
+.venv/
+node_modules/
+*.pyc
+__pycache__/
