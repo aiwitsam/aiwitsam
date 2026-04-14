@@ -1,0 +1,27 @@
+{
+  "name": "aiwitsam-ghl-automation",
+  "version": "1.0.0",
+  "description": "GHL Revenue Pipeline + Automation Layer for World Class Digital",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ghl:login": "tsx playwright/auth/ghl-login.ts",
+    "ghl:config": "tsx playwright/setup/ghl-config.ts",
+    "ghl:pipeline": "tsx playwright/setup/ghl-pipeline.ts",
+    "ghl:social-connect": "tsx playwright/setup/ghl-social-connect.ts",
+    "ghl:social-post": "tsx playwright/operations/ghl-social-post.ts",
+    "ghl:monitor": "tsx playwright/operations/ghl-monitor.ts",
+    "content:capture": "tsx playwright/content/content-capture.ts",
+    "webhooks:start": "tsx webhooks/server.ts",
+    "site:patch": "bash scripts/site-patch.sh"
+  },
+  "dependencies": {
+    "dotenv": "16.5.0",
+    "playwright": "1.59.1"
+  },
+  "devDependencies": {
+    "tsx": "4.19.4",
+    "typescript": "5.8.3",
+    "@types/node": "22.15.3"
+  }
+}

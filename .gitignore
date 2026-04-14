@@ -1,6 +1,21 @@
 # Security enforcement (added by security-gate)
 .env
+.env.local
 .venv/
 node_modules/
 *.pyc
 __pycache__/
+
+# Playwright
+playwright/.auth/
+playwright-report/
+
+# Monitoring output
+monitoring/*.png
+monitoring/*.jpg
+
+# Build
+dist/
+
+# OS
+.DS_Store
