@@ -15,7 +15,7 @@
 
 I started in IT before AI was part of the conversation — GoDaddy, hosting, SSL, and security from the ground up. At Microsoft, I was hands-on with ChatGPT while it was still in beta and GitHub Copilot before general release. That early exposure changed how I think about building. Now I'm full-in on Claude, Perplexity, and open LLM models running locally via Ollama — using AI daily to build security and automation tools that should exist but don't.
 
-10+ years spanning Microsoft, GoDaddy, Norton/LifeLock, and American Express. Currently founder of [World Class Digital](https://worldclassdigital.com) (IT consulting) and assistant PM for a federally funded workforce development program, managing data systems and employer partnerships for 443 fellows.
+10+ years spanning Microsoft, GoDaddy, Norton/LifeLock, and American Express. Currently founder of [World Class Digital](https://worldclassdigital.com) (IT consulting), with program and data-systems work for a workforce development initiative.
 
 ---
 
@@ -96,7 +96,7 @@ I started in IT before AI was part of the conversation — GoDaddy, hosting, SSL
 |---|---|
 | CompTIA Security+ | Active (2025) |
 | Microsoft Azure Fundamentals | Active |
-| B.S., Northern Arizona University | Hospitality Business Management, 2013 |
+| B.S., Northern Arizona University | Hotel and Restaurant Management, 2013 |
 | Enterprise experience | 10+ years — Microsoft, GoDaddy, Norton/LifeLock, American Express |
 
 ---
@@ -104,7 +104,7 @@ I started in IT before AI was part of the conversation — GoDaddy, hosting, SSL
 ## :seedling: Currently Working On
 
 - **wordPRESSED** — WordPress security scanner that aggregates NVD, CISA KEV, GitHub Advisories, Wordfence, Patchstack, and Exploit-DB into a local vulnerability database. No API keys, no paywalls. Bash + SQLite.
-- **Workforce development PM** — Rebuilt the data tracking system (previous contractor delivered 36% of requirements), expanded employer partnerships from 94 to 246 prospects.
+- **Workforce development program support** — Rebuilt the participant data tracking system and expanded the employer partnership pipeline.
 - **World Class Digital** — Cloud infrastructure, cybersecurity consulting, and project management for SMB and nonprofit clients.
 - **Local LLM experiments** — Running quantized models on an RTX 4060 via Ollama. Building tools that work offline.
 
